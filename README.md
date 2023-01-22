@@ -128,10 +128,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](out (3).png)
+![OUTPUT](out.png)
 
 # HTML VALIDATOR
-![HTML](valid (2).png)
+![ HTML VALIDATOR](valid.png)
 
 # RESULT
 The program for creating slot time is completed  sucessfully
