@@ -128,10 +128,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://krishnakumar.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](http://krishnakumar.student.saveetha.in:8000/static/images/out (3).png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://krishnakumar.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](http://krishnakumar.student.saveetha.in:8000/static/images/valid (2).png?raw=true)
 
 # RESULT
 The program for creating slot time is completed  sucessfully
