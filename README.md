@@ -127,11 +127,11 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](http://krishnakumar.student.saveetha.in:8000/static/images/out (3).png?raw=true)
+# OUPUT:
+![OUTPUT](out (3).png)
 
-# HTML VALIDATOR
-![HTML VALIDATOR](http://krishnakumar.student.saveetha.in:8000/static/images/valid (2).png?raw=true)
+# HTML VALIDATOR:
+![HTML VALIDATOR](valid (2).png)
 
 # RESULT
 The program for creating slot time is completed  sucessfully
